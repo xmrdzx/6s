@@ -1,0 +1,8 @@
+{
+  "name": "5s-Audit-App",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
